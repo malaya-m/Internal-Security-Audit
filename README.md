@@ -38,3 +38,10 @@ Note: The Controls and compliance checklist
   is what you need to complete to conduct this security audit. 
 
   
+Step 3: Assess your activity
+
+The following is a self-assessment for your controls and compliance checklist. You will use these statements to review your own work. The self-assessment process is an important part of the learning experience because it allows you to objectively assess your security audit.
+
+There are a total of 5 points possible for this activity and each statement is worth 1 point. The items correspond to each step you completed for the activity. 
+
+To complete the self-assessment, first open your controls assessment and compliance checklist. Then respond yes or no to each statement. 
